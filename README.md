@@ -73,6 +73,7 @@
 - PSV-2016-0131: Server Side Request Forgery in NETGEAR R7800 Routers 0day (https://kb.netgear.com/000053137/Security-Advisory-for-Security-Misconfiguration-on-Some-Routers-and-Gateways-PSV-2016-0131) 1/2016
 
 ### 2015:
+- Founded CrowdShield (https://crowdshield.com) A bug bounty startup based in Toronto, Canada. 
 - Made the top 10 researcher list on BugCrowd 11/2015
 - Wordpress XMLRPC System Multicall Brute Force Exploit (0day) Exploit/PoC 10/2015
 - Aruba AP-205 Remote Command Injection Vulnerability ($750 bounty) (https://www.youtube.com/watch?v=TZqDkN1NQf4) 10/2015
