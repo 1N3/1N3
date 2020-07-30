@@ -21,6 +21,7 @@
 ## Public Exploits/PoC's/CVE's/Bug Bounties/CTF's
 
 ### 2019 - Current:
+[![XeroSecurity](https://xerosecurity.com/wordpress/wp-content/uploads/2019/12/xerosecuritylogooriginal.png)](https://xerosecurity.com)
 - Founded XeroSecurity which provides offensive security solutions to professional penetration testers, bug bounty researchers and enterprise security teams. 
 
 ### 2018:
