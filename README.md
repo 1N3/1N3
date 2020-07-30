@@ -21,7 +21,7 @@
 ## Public Exploits/PoC's/CVE's/Bug Bounties/CTF's
 
 ### 2019 - Current:
-- Founded XeroSecurity
+- Founded XeroSecurity which provides offensive security solutions to professional penetration testers, bug bounty researchers and enterprise security teams. 
 
 ### 2018:
 - Featured in Hackin9 Magazine - Open Source Hacking Tools edition (https://hakin9.org/download/open-source-hacking-tools/) 8/2018
