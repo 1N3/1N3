@@ -7,7 +7,7 @@
 ## Social Media
 - https://twitter.com/xer0dayz
 - https://twitter.com/xerosecurity
-- https://youtube.com/xerosecurity
+- https://www.youtube.com/channel/UCpAWcoQ_FVSg6EjK7qWGYcw
 
 ## Bug Bounty Profiles
 - https://bugcrowd.com/1N3
