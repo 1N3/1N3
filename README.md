@@ -21,7 +21,7 @@
 ## Public Exploits/PoC's/CVE's/Bug Bounties/CTF's
 
 ### 2020:
-- Discovered a critical vulnerability in Proofpoint and was added to the Hall of Fame (https://www.proofpoint.com/us/security)
+- Discovered a critical vulnerability in Proofpoint affecting many customers and was added to the Hall of Fame (https://www.proofpoint.com/us/security)
 
 ### 2019 - Current:
 [![XeroSecurity](https://xerosecurity.com/wordpress/wp-content/uploads/2019/12/xerosecuritylogooriginal.png)](https://xerosecurity.com)
