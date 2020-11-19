@@ -31,7 +31,7 @@
 - Featured in Hackin9 Magazine - Open Source Hacking Tools edition (https://hakin9.org/download/open-source-hacking-tools/) 8/2018
 - Jetty 6.1.6 Cross-Site Scripting (XSS) (https://seclists.org/fulldisclosure/2018/Aug/15) (Full Disclosure) 8/2018
 - Listed on the DoD Defense Travel System HoF 6/2018
-- Pre-qualified for the BugCrowd 2018 MVP research list (https://www.bugcrowd.com/bugcrowd-mvps-april-edition/) 4/2018
+- Qualified for the BugCrowd 2018 MVP researcher list (https://www.bugcrowd.com/bugcrowd-mvps-april-edition/) 4/2018
 - CVE-2018-8917 Synology-SA-18:14 - Reflected XSS in DSM 6.1.5-15254 (https://www.synology.com/en-us/security/advisory/Synology_SA_18_14) 3/2018
 - CVE-2018-6545 Ipswitch MoveIt v8.1 Stored Cross-Site Scripting (XSS) (https://www.exploit-db.com/exploits/43947) 2/2018
 - Multiple Cross-Site Scripting (XSS) vulnerabilities in Illustra IP Cameras ($600 bounty) 2/2018
