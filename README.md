@@ -18,6 +18,27 @@
 - https://www.exploit-db.com/?author=7787
 - https://vulners.com/search?query=1N3
 
+## Open Source Security Tools
+- Sn1per (https://github.com/1N3/Sn1per)
+- Findsploit (https://github.com/1N3/Findsploit)
+- BruteX (https://github.com/1N3/BruteX)
+- BlackWidow (https://github.com/1N3/BlackWidow)
+- ReverseAPK (https://github.com/1N3/ReverseAPK)
+- GooHak (https://github.com/1N3/GooHak)
+- PRISM-AP (https://github.com/1N3/PRISM-AP)
+
+## Certifications
+- OSCE
+- OSCP
+- CISSP
+- Security+
+- CNA
+- MCP
+- Network+
+- A+
+- PCI-ASV
+- SecurityTube Android Security For Penetration Testers
+
 ## Public Exploits/PoC's/CVE's/Bug Bounties/CTF's
 
 ### 2020:
@@ -98,6 +119,18 @@
 - AlogoSec FireFlow 6.3 Cross Site Scripting (Full Disclosure) (https://packetstormsecurity.com/files/127001/AlogoSec-FireFlow-6.3-Cross-Site-Scripting.html) 7/2014
 - Recieved Offensive Security Certified Professional (OSCP) certification 2/2014
 
+### 2003-2005:
+- Founder of Star Virtual Machines / creator of VOS (Virtual Operating System): A Linux based distribution aimed to run multiple Operation Systems, including Windows / Linux and Mac OS on the same computer.
+
+### 2001-2003:
+- Creator of Project-X-IRC: An IRC warscript for mIRC
+- Creator of P2P Terminal: An IRC P2P file sharing application written in TCL/TK
+
+### 1999-2001:
+- Founder of Xion Audio / inventor of T1 Impulse Adapter
+
+### 1993-1998:
+- AOL script k1dD1e f0r LyFe!
 
 <!--
 **1N3/1N3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
