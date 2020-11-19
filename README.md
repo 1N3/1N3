@@ -44,7 +44,7 @@
 - Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in WEMO HomeKit Bridge ($3,000 bounty) 9/2017
 - Stored Cross-Site Scripting (XSS) vulnerability in WEMO HomeKit Bridge ($500 bounty) 9/2017
 - Systemic Stored XSS vulnerability in WEMO HomeKit Android Application ($1,500 bounty) 9/2017
-- Systemic Local File Inclusion in DEMO HomeKit Android Application ($3,000 bounty) 9/2017
+- Systemic Local File Inclusion in WEMO HomeKit Android Application ($3,000 bounty) 9/2017
 - Placed 7th in ToorConCTF CTF 8/2017
 - Stored XSS in ModSecurity App for Splunk (Full Disclosure) 8/2017
 - Directory Traversal in PSPDFKit/Atlassian Jira Cloud Android application Bug Bounty 7/2017
