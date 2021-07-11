@@ -41,6 +41,9 @@
 
 ## Public Exploits/PoC's/CVE's/Bug Bounties/CTF's
 
+### 2021:
+- Nutanix Stored DOM Cross-Site Scripting (XSS) & Reflected Cross-Site Scripting (XSS) 0day
+
 ### 2020:
 - Discovered a critical vulnerability in Proofpoint affecting many customers and was added to the Hall of Fame (https://www.proofpoint.com/us/security)
 
