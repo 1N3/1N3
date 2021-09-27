@@ -1,13 +1,13 @@
 ## Website
-- https://xerosecurity.com
+- https://sn1persecurity.com
 
 ## Blog
-- https://xerosecurity.com/wordpress/blog/
+- https://sn1persecurity.com/wordpress/blog/
 
 ## Social Media
 - https://twitter.com/xer0dayz
-- https://twitter.com/xerosecurity
-- https://www.youtube.com/channel/UCpAWcoQ_FVSg6EjK7qWGYcw
+- https://twitter.com/sn1persecurity
+- https://www.youtube.com/channel/sn1persecurity
 
 ## Bug Bounty Profiles
 - https://bugcrowd.com/1N3
@@ -48,8 +48,8 @@
 - Discovered a critical vulnerability in Proofpoint affecting many customers and was added to the Hall of Fame (https://www.proofpoint.com/us/security)
 
 ### 2019 - Current:
-[![XeroSecurity](https://xerosecurity.com/wordpress/wp-content/uploads/2019/12/xerosecuritylogooriginal.png)](https://xerosecurity.com)
-- Founded XeroSecurity which provides offensive security solutions to professional penetration testers, bug bounty researchers and enterprise security teams. 
+[![Sn1perSecurity](https://sn1persecurity.com/wordpress/wp-content/uploads/2019/12/xerosecuritylogooriginal.png)](https://xerosecurity.com)
+- Founded Sn1perSecurity which provides offensive security solutions to professional penetration testers, bug bounty researchers and enterprise security teams. 
 
 ### 2018:
 - Featured in Hackin9 Magazine - Open Source Hacking Tools edition (https://hakin9.org/download/open-source-hacking-tools/) 8/2018
