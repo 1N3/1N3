@@ -48,7 +48,6 @@
 - Discovered a critical vulnerability in Proofpoint affecting many customers and was added to the Hall of Fame (https://www.proofpoint.com/us/security)
 
 ### 2019 - Current:
-[![Sn1perSecurity](https://sn1persecurity.com/wordpress/wp-content/uploads/2019/12/xerosecuritylogooriginal.png)](https://xerosecurity.com)
 - Founded Sn1perSecurity which provides offensive security solutions to professional penetration testers, bug bounty researchers and enterprise security teams. 
 
 ### 2018:
