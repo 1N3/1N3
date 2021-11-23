@@ -131,9 +131,6 @@
 ### 1999-2001:
 - Founder of Xion Audio / inventor of T1 Impulse Adapter
 
-### 1993-1998:
-- AOL script k1dD1e f0r LyFe!
-
 <!--
 **1N3/1N3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
