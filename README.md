@@ -42,7 +42,7 @@
 ## Public Exploits/PoC's/CVE's/Bug Bounties/CTF's
 
 ### 2023:
-- CVE-2024-21733 Apache Tomcat HTTP Request Smuggling (Client- Side Desync) (https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-21733)
+- CVE-2024-21733 Apache Tomcat HTTP Request Smuggling (Client- Side Desync) (https://sn1persecurity.com/wordpress/cve-2024-21733-apache-tomcat-http-request-smuggling/)
 
 ### 2021:
 - Nutanix Stored DOM Cross-Site Scripting (XSS) & Reflected Cross-Site Scripting (XSS) 0day
