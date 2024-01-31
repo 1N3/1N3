@@ -11,7 +11,7 @@
 
 ## Bug Bounty Profiles
 - https://bugcrowd.com/1N3
-- https://hackerone.com/1N3
+- https://hackerone.com/xer0dayz
 
 ## Public Exploits
 - https://packetstormsecurity.com/files/author/1N3/
