@@ -1,14 +1,3 @@
-## Website
-- https://sn1persecurity.com
-
-## Blog
-- https://sn1persecurity.com/wordpress/blog/
-
-## Social Media
-- https://twitter.com/xer0dayz
-- https://twitter.com/sn1persecurity
-- https://www.youtube.com/channel/sn1persecurity
-
 ## Bug Bounty Profiles
 - https://bugcrowd.com/1N3
 - https://hackerone.com/xer0dayz
@@ -49,9 +38,6 @@
 
 ### 2020:
 - Discovered a critical vulnerability in Proofpoint affecting many customers and was added to the Hall of Fame (https://www.proofpoint.com/us/security)
-
-### 2019 - Current:
-- Founded Sn1perSecurity which provides offensive security solutions to professional penetration testers, bug bounty researchers and enterprise security teams. 
 
 ### 2018:
 - Featured in Hackin9 Magazine - Open Source Hacking Tools edition (https://hakin9.org/download/open-source-hacking-tools/) 8/2018
