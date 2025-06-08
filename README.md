@@ -1,3 +1,9 @@
+## Website
+- https://sn1persecurity.com
+
+## Social Media
+- https://twitter.com/xer0dayz
+
 ## Bug Bounty Profiles
 - https://bugcrowd.com/1N3
 - https://hackerone.com/xer0dayz
@@ -52,7 +58,7 @@
 - Listed on the BugCrowd 2017 MVP researcher list (https://www.bugcrowd.com/today-we-recognize-our-2017-mvp-researchers/) 1/2018
 
 ### 2017:
-- Recieved Offensive Security Certified Expert (OSCE) cerfication 12/2017
+- Received Offensive Security Certified Expert (OSCE) cerfication 12/2017
 - Multiple Cross-Site Request Forgery (CSRF) vulnerabilities in WEMO HomeKit Bridge ($3,000 bounty) 9/2017
 - Stored Cross-Site Scripting (XSS) vulnerability in WEMO HomeKit Bridge ($500 bounty) 9/2017
 - Systemic Stored XSS vulnerability in WEMO HomeKit Android Application ($1,500 bounty) 9/2017
@@ -60,11 +66,11 @@
 - Placed 7th in ToorConCTF CTF 8/2017
 - Stored XSS in ModSecurity App for Splunk (Full Disclosure) 8/2017
 - Directory Traversal in PSPDFKit/Atlassian Jira Cloud Android application Bug Bounty 7/2017
-- Recieved Android Security For Penetration Testers (ASFP) certification from SecurityTube 5/2017
+- Received Android Security For Penetration Testers (ASFP) certification from SecurityTube 5/2017
 - Gave talk at ISSA/OWASP Phoenix to 90+ attendees titled "Man In The Browser Advanced Client Side Exploitation" (https://www.slideshare.net/1N3/man-in-the-browser-advanced-client-side-exploitation-using-beef) 4/2017
 - PSV-2017-0227: Cross-Site Tracing Vulnerability in NETGEAR Arlo CVE 2/2017
 - Directory traversal + multiple CSRF + multiple stored and reflected XSS in NETGEAR M4300-8X8F switches ($3,000+ bounty) 3/2017
-- Recieved Department of Defense HackerOne Challenge coin for the Hack The Army Bug Bounty Program 2/2017
+- Received Department of Defense HackerOne Challenge coin for the Hack The Army Bug Bounty Program 2/2017
 - Listed on the BugCrowd 2016 MVP list 1/2017
 
 ### 2016:
@@ -108,19 +114,4 @@
 - Lyris ListManagerWeb 8.95a Cross Site Scripting (Full Disclosure) (https://packetstormsecurity.com/files/127672/Lyris-ListManagerWeb-8.95a-Cross-Site-Scripting.html) 7/2014
 - MyConnection Server (MCS) 9.7i Cross Site Scripting (Full Disclosure) (https://0day.today/exploit/description/22526) 7/2014
 - AlogoSec FireFlow 6.3 Cross Site Scripting (Full Disclosure) (https://packetstormsecurity.com/files/127001/AlogoSec-FireFlow-6.3-Cross-Site-Scripting.html) 7/2014
-- Recieved Offensive Security Certified Professional (OSCP) certification 2/2014
-
-<!--
-**1N3/1N3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Received Offensive Security Certified Professional (OSCP) certification 2/2014
