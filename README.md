@@ -1,8 +1,11 @@
 ## Website
 - https://sn1persecurity.com
+- https://silentchain.ai
 
 ## Social Media
 - https://twitter.com/xer0dayz
+- https://twitter.com/Sn1perSecurity
+- https://twitter.com/silentchainai
 
 ## Bug Bounty Profiles
 - https://bugcrowd.com/1N3
@@ -35,6 +38,9 @@
 - SecurityTube Android Security For Penetration Testers
 
 ## Public Exploits/PoC's/CVE's/Bug Bounties/CTF's
+
+### 2026:
+- Created SILENTCHAIN AI @silentchainai (https://silentchain.ai) AI-Powered Vulnerability Scanning for Burp Suite (https://github.com/silentchainai/SILENTCHAIN/)
 
 ### 2024:
 - CVE-2024-21733 Apache Tomcat HTTP Request Smuggling (Client- Side Desync) (https://sn1persecurity.com/wordpress/cve-2024-21733-apache-tomcat-http-request-smuggling/) $4,660 bounty (https://hackerone.com/reports/2327341)
