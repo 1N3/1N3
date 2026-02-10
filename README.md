@@ -17,6 +17,7 @@
 - https://vulners.com/search?query=1N3
 
 ## Open Source Security Tools
+- SILENTCHAIN AI (https://github.com/silentchainai/SILENTCHAIN)
 - Sn1per (https://github.com/1N3/Sn1per)
 - Findsploit (https://github.com/1N3/Findsploit)
 - BruteX (https://github.com/1N3/BruteX)
