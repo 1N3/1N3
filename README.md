@@ -8,7 +8,7 @@
 - https://twitter.com/silentchainai
 
 ## Bug Bounty Profiles
-- https://bugcrowd.com/1N3
+- https://bugcrowd.com/xer0dayz
 - https://hackerone.com/xer0dayz
 
 ## Public Exploits
